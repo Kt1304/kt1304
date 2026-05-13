@@ -101,9 +101,3 @@ Me chamo Matheus, tenho 24 anos e sou natural de Clevelândia, Paraná. Sou form
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kt1304&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kt1304&layout=compact&theme=tokyonight" height="180"/>
-</p>
