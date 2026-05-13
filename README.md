@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Matheus Henrique
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Matheus, tenho 24 anos e sou natural de Clevelândia, Paraná. Sou formado em Sistemas de Informação pela Universidade Federal do Paraná, campus Palmas. Atuo na área de tecnologia, com foco em desenvolvimento, sempre buscando evoluir e aprofundar meus conhecimentos.
 
